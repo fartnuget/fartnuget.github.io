@@ -1,0 +1,4 @@
+body { font-family: sans; }
+header a { text-decoration: none; color: inherit; }
+header h1 span { margin-left: 1em; font-size: 50%; font-style: italic; }
+.activepage { font-style: italic; }
